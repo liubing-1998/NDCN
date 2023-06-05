@@ -1,0 +1,54 @@
+python .\heat_dynamics.py --network grid --viz --dump --init_random --seed 456 --count D0
+python .\heat_dynamics.py --network grid --viz --dump --init_random --seed 876 --count D1
+python .\heat_dynamics.py --network grid --viz --dump --init_random --seed 1664 --count D2
+python .\heat_dynamics.py --network grid --viz --dump --init_random --seed 1268 --count D3
+python .\heat_dynamics.py --network grid --viz --dump --init_random --seed 257 --count D4
+python .\heat_dynamics.py --network grid --viz --dump --init_random --seed 1221 --count D5
+python .\heat_dynamics.py --network grid --viz --dump --init_random --seed 38 --count D6
+python .\heat_dynamics.py --network grid --viz --dump --init_random --seed 1010 --count D7
+python .\heat_dynamics.py --network grid --viz --dump --init_random --seed 1087 --count D8
+python .\heat_dynamics.py --network grid --viz --dump --init_random --seed 1761 --count D9
+
+python .\heat_dynamics.py --network random --viz --dump --init_random --seed 1356 --count D0
+python .\heat_dynamics.py --network random --viz --dump --init_random --seed 330 --count D1
+python .\heat_dynamics.py --network random --viz --dump --init_random --seed 584 --count D2
+python .\heat_dynamics.py --network random --viz --dump --init_random --seed 1311 --count D3
+python .\heat_dynamics.py --network random --viz --dump --init_random --seed 333 --count D4
+python .\heat_dynamics.py --network random --viz --dump --init_random --seed 785 --count D5
+python .\heat_dynamics.py --network random --viz --dump --init_random --seed 911 --count D6
+python .\heat_dynamics.py --network random --viz --dump --init_random --seed 809 --count D7
+python .\heat_dynamics.py --network random --viz --dump --init_random --seed 1915 --count D8
+python .\heat_dynamics.py --network random --viz --dump --init_random --seed 1250 --count D9
+
+python .\heat_dynamics.py --network power_law --viz --dump --init_random --seed 742 --count D0
+python .\heat_dynamics.py --network power_law --viz --dump --init_random --seed 1784 --count D1
+python .\heat_dynamics.py --network power_law --viz --dump --init_random --seed 1327 --count D2
+python .\heat_dynamics.py --network power_law --viz --dump --init_random --seed 1705 --count D3
+python .\heat_dynamics.py --network power_law --viz --dump --init_random --seed 1409 --count D4
+python .\heat_dynamics.py --network power_law --viz --dump --init_random --seed 1549 --count D5
+python .\heat_dynamics.py --network power_law --viz --dump --init_random --seed 1978 --count D6
+python .\heat_dynamics.py --network power_law --viz --dump --init_random --seed 476 --count D7
+python .\heat_dynamics.py --network power_law --viz --dump --init_random --seed 395 --count D8
+python .\heat_dynamics.py --network power_law --viz --dump --init_random --seed 194 --count D9
+
+python .\heat_dynamics.py --network small_world --viz --dump --init_random --seed 1967 --count D0
+python .\heat_dynamics.py --network small_world --viz --dump --init_random --seed 1686 --count D1
+python .\heat_dynamics.py --network small_world --viz --dump --init_random --seed 44 --count D2
+python .\heat_dynamics.py --network small_world --viz --dump --init_random --seed 1982 --count D3
+python .\heat_dynamics.py --network small_world --viz --dump --init_random --seed 772 --count D4
+python .\heat_dynamics.py --network small_world --viz --dump --init_random --seed 1450 --count D5
+python .\heat_dynamics.py --network small_world --viz --dump --init_random --seed 1107 --count D6
+python .\heat_dynamics.py --network small_world --viz --dump --init_random --seed 882 --count D7
+python .\heat_dynamics.py --network small_world --viz --dump --init_random --seed 1618 --count D8
+python .\heat_dynamics.py --network small_world --viz --dump --init_random --seed 1557 --count D9
+
+python .\heat_dynamics.py --network community --viz --dump --init_random --seed 500 --count D0
+python .\heat_dynamics.py --network community --viz --dump --init_random --seed 28 --count D1
+python .\heat_dynamics.py --network community --viz --dump --init_random --seed 1366 --count D2
+python .\heat_dynamics.py --network community --viz --dump --init_random --seed 150 --count D3
+python .\heat_dynamics.py --network community --viz --dump --init_random --seed 416 --count D4
+python .\heat_dynamics.py --network community --viz --dump --init_random --seed 1681 --count D5
+python .\heat_dynamics.py --network community --viz --dump --init_random --seed 890 --count D6
+python .\heat_dynamics.py --network community --viz --dump --init_random --seed 1282 --count D7
+python .\heat_dynamics.py --network community --viz --dump --init_random --seed 861 --count D8
+python .\heat_dynamics.py --network community --viz --dump --init_random --seed 535 --count D9

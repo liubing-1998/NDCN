@@ -1,0 +1,54 @@
+python .\birthdeath_dynamics.py --network grid --viz --dump --init_random --seed 900 --count D0
+python .\birthdeath_dynamics.py --network grid --viz --dump --init_random --seed 1788 --count D1
+python .\birthdeath_dynamics.py --network grid --viz --dump --init_random --seed 312 --count D2
+python .\birthdeath_dynamics.py --network grid --viz --dump --init_random --seed 971 --count D3
+python .\birthdeath_dynamics.py --network grid --viz --dump --init_random --seed 1636 --count D4
+python .\birthdeath_dynamics.py --network grid --viz --dump --init_random --seed 998 --count D5
+python .\birthdeath_dynamics.py --network grid --viz --dump --init_random --seed 1889 --count D6
+python .\birthdeath_dynamics.py --network grid --viz --dump --init_random --seed 1801 --count D7
+python .\birthdeath_dynamics.py --network grid --viz --dump --init_random --seed 946 --count D8
+python .\birthdeath_dynamics.py --network grid --viz --dump --init_random --seed 1781 --count D9
+
+python .\birthdeath_dynamics.py --network random --viz --dump --init_random --seed 962 --count D0
+python .\birthdeath_dynamics.py --network random --viz --dump --init_random --seed 1154 --count D1
+python .\birthdeath_dynamics.py --network random --viz --dump --init_random --seed 526 --count D2
+python .\birthdeath_dynamics.py --network random --viz --dump --init_random --seed 1550 --count D3
+python .\birthdeath_dynamics.py --network random --viz --dump --init_random --seed 1014 --count D4
+python .\birthdeath_dynamics.py --network random --viz --dump --init_random --seed 1762 --count D5
+python .\birthdeath_dynamics.py --network random --viz --dump --init_random --seed 1285 --count D6
+python .\birthdeath_dynamics.py --network random --viz --dump --init_random --seed 627 --count D7
+python .\birthdeath_dynamics.py --network random --viz --dump --init_random --seed 534 --count D8
+python .\birthdeath_dynamics.py --network random --viz --dump --init_random --seed 965 --count D9
+
+python .\birthdeath_dynamics.py --network power_law --viz --dump --init_random --seed 1979 --count D0
+python .\birthdeath_dynamics.py --network power_law --viz --dump --init_random --seed 1867 --count D1
+python .\birthdeath_dynamics.py --network power_law --viz --dump --init_random --seed 853 --count D2
+python .\birthdeath_dynamics.py --network power_law --viz --dump --init_random --seed 1154 --count D3
+python .\birthdeath_dynamics.py --network power_law --viz --dump --init_random --seed 1159 --count D4
+python .\birthdeath_dynamics.py --network power_law --viz --dump --init_random --seed 1984 --count D5
+python .\birthdeath_dynamics.py --network power_law --viz --dump --init_random --seed 1964 --count D6
+python .\birthdeath_dynamics.py --network power_law --viz --dump --init_random --seed 1369 --count D7
+python .\birthdeath_dynamics.py --network power_law --viz --dump --init_random --seed 1657 --count D8
+python .\birthdeath_dynamics.py --network power_law --viz --dump --init_random --seed 65 --count D9
+
+python .\birthdeath_dynamics.py --network small_world --viz --dump --init_random --seed 1512 --count D0
+python .\birthdeath_dynamics.py --network small_world --viz --dump --init_random --seed 1709 --count D1
+python .\birthdeath_dynamics.py --network small_world --viz --dump --init_random --seed 1474 --count D2
+python .\birthdeath_dynamics.py --network small_world --viz --dump --init_random --seed 10 --count D3
+python .\birthdeath_dynamics.py --network small_world --viz --dump --init_random --seed 1546 --count D4
+python .\birthdeath_dynamics.py --network small_world --viz --dump --init_random --seed 1431 --count D5
+python .\birthdeath_dynamics.py --network small_world --viz --dump --init_random --seed 560 --count D6
+python .\birthdeath_dynamics.py --network small_world --viz --dump --init_random --seed 395 --count D7
+python .\birthdeath_dynamics.py --network small_world --viz --dump --init_random --seed 491 --count D8
+python .\birthdeath_dynamics.py --network small_world --viz --dump --init_random --seed 1064 --count D9
+
+python .\birthdeath_dynamics.py --network community --viz --dump --init_random --seed 306 --count D0
+python .\birthdeath_dynamics.py --network community --viz --dump --init_random --seed 1569 --count D1
+python .\birthdeath_dynamics.py --network community --viz --dump --init_random --seed 1312 --count D2
+python .\birthdeath_dynamics.py --network community --viz --dump --init_random --seed 1420 --count D3
+python .\birthdeath_dynamics.py --network community --viz --dump --init_random --seed 1670 --count D4
+python .\birthdeath_dynamics.py --network community --viz --dump --init_random --seed 1091 --count D5
+python .\birthdeath_dynamics.py --network community --viz --dump --init_random --seed 566 --count D6
+python .\birthdeath_dynamics.py --network community --viz --dump --init_random --seed 634 --count D7
+python .\birthdeath_dynamics.py --network community --viz --dump --init_random --seed 89 --count D8
+python .\birthdeath_dynamics.py --network community --viz --dump --init_random --seed 1551 --count D9
